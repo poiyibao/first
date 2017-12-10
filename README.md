@@ -4,11 +4,11 @@
 
 
 
-当初看了那个图片没看懂，最好就做了一个关于fate的介绍的网页，素材都是从百度百科和b站找来的</br>
+当初看了那个图片没看懂，最后打算做一个关于fate的介绍的网页，素材都是从百度百科和b站找来的</br>
 
-* [fate词条] （https://baike.baidu.com/item/fate/51012?fr=aladdin）
+* [fate词条](https://baike.baidu.com/item/fate/51012?fr=aladdin )
 
-* [b站资源] （https://search.bilibili.com/all?keyword=fate&from_source=banner_search&spm_id_from=333.334.banner_link.1）
+* [b站资源](https://search.bilibili.com/all?keyword=fate&from_source=banner_search&spm_id_from=333.334.banner_link.1 )
 
 ## 大概介绍</br>
 网页上面是一个fate的图片的轮播图</br>
